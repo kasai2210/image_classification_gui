@@ -34,7 +34,7 @@ $ python3 gui.py
 $ python gui.py
 ```
 ## Testing on examples
-1) Click on upload image
-2) Select test_1.jpeg and test it out
+1) Click on upload image, upload an image of your choice
+2) Click the classify button
 
 YOU ARE GOOD TO GO !!
